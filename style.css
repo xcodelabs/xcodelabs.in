@@ -1,0 +1,17 @@
+.fullbg{
+    background: url('bg.jpg');
+    background-size: cover;
+    background-image: fit;
+    background-repeat: no-repeat;
+    
+}
+img{
+    display: block;
+    height:100%;
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    vertical-align: middle;
+}
